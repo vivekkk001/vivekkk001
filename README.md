@@ -11,8 +11,6 @@
 - 💡 **Interests:** Full-Stack & System Design | AI & Security | Blockchain for Transparency
 - 🎯 **Fun Fact:** I love debugging more than coding sometimes!  
 
----
-
 ## 🌍 Connect with Me  
 <p align="left">
   <a href="https://linkedin.com/in/vivek-d-kulal" target="_blank">
@@ -63,11 +61,6 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
 </p>
 
-
-## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivekkk001&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekkk001&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekkk001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph" />
 </p>
-
----
