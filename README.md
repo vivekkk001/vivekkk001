@@ -6,7 +6,7 @@
 </p>
 
 ## 🚀 About Me  
-- 🌍 **Currently working on:** [AI-Powered Smart City Grievance Redressal System](#)
+- 🌍 **Currently working on:** [AI-Powered Smart City Grievance Redressal System](https://github.com/vivekkk001/Major-Project.git)
 - 📖 **Currently learning:** `Redhat` | `PostgreSQL`
 - 💡 **Interests:** Full-Stack & System Design | AI & Security | Blockchain for Transparency
 - 🎯 **Fun Fact:** I love debugging more than coding sometimes!  
