@@ -53,5 +53,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-commit-stats.vercel.app/api/top-langs?username=vivekkk001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph" />
+  <img src="https://github-language-stats.vercel.app/api/top-langs?username=vivekkk001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph" />
 </p>
