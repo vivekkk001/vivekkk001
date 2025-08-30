@@ -10,7 +10,7 @@
 ## 🚀 About Me  
 - 🏗️ **Currently working on:** [AI-Powered Smart City Grievance Redressal System](https://github.com/vivekkk001/Major-Project.git)  
 - 📖 **Currently learning:** `Linux` | `Docker`  
-- 💡 **Interests:** Full-Stack + Applied AI/ML & DevOps
+- 💡 **Interests:** DevOps & Computer Systems
 
 ---
 
